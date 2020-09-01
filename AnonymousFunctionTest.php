@@ -3,7 +3,7 @@
 /**
  * What will output this code?
  */
-class AnonymousFunction {
+class AnonymousFunctionTest {
 
     private $helloText = 'Some text!';
 
@@ -15,5 +15,5 @@ class AnonymousFunction {
     }
 }
 
-$cl = new AnonymousFunction();
+$cl = new AnonymousFunctionTest();
 echo $cl->someMethod()();
