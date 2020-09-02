@@ -10,7 +10,7 @@ class DateTimeTest
 
     public function __construct($immutable = false)
     {
-        $this->date = ($immutable) ? new DateTime() : new DateTimeImmutable();
+        $this->date = ($immutable) ? new DateTimeImmutable() : new DateTime();
     }
 
     public function today()

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * What will output this code?
+ * Find errors in this code.
  */
 class AnonymousFunctionTest {
 

@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * What is output?
+ */
+
 interface Interface1
 {
     public function getFoo();
