@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * What is output?
+ */
+
 class Magic {
     public $a = "A";
     protected $b = ['a' => 'A', 'b' => 'B', 'c' => 'C'];
